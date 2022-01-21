@@ -1,1 +1,1 @@
-([guardian999] (http://github.com/guardian99))
+[text](https://example.com)
